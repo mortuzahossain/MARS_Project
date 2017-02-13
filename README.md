@@ -6,7 +6,7 @@ Arduino Uno All Project Made By Me and My Friends
 
 Created By
 
-  * -Mortuza Hossain- **
+  * __Mortuza Hossain__ **
   * Ratul**
   * Sajjad
   * Adnan
