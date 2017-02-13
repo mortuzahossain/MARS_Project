@@ -1,13 +1,11 @@
 # MARS_Project
-Arduino Uno All Project Made By Me and My Friends
+
+Arduino Uno Project Made By Me and My Friends.
 
 ## First Project - Clock
 
-
 Created By
 
-  * __Mortuza Hossain__ **
-  * Ratul**
+  * __Mortuza Hossain__
+  * __Ridwan__
   * Sajjad
-  * Adnan
-
